@@ -1,13 +1,12 @@
-# code-refractor
-
-## Horiseon Social Solution Services
+# Horiseon Social Solution Services
 https://revywatson.github.io/code-refractor/
 
 ## What, how and why…
 
 * The navigation link at the top right of the page for >Search Engine Optimization> was not functioning. The element was missing `<id="search-engine-optimization">` within the section opening tag.
 
-* The original code provided by Horiseon had the `<div>` element tag used almost exclusively throughout the html file. I went through and replaced all of the `<div>` element tags with semantic html elements such as: `<header>`, `<footer>`, `<nav>`, `<article>`, `<section>`, etc.
+* The original code provided by Horiseon [Horiseon](https://revywatson.github.io/code-refractor/
+) had the `<div>` element tag used almost exclusively throughout the html file. I went through and replaced all of the `<div>` element tags with semantic html elements such as: `<header>`, `<footer>`, `<nav>`, `<article>`, `<section>`, etc.
 
 * When I replaced the `<div>` elements for the ` <nav>`, and `<footer>` the appearance of the website changed. In order to maintain the original appearance I also had to edit the CSS style sheet. I replaced the div element for nav, and changed the .footer class into an element selector of footer. 
 
