@@ -1,5 +1,10 @@
-# Horiseon Social Solution Services
+#Horiseon
+
+[Horiseon Social Solution Services](https://revywatson.github.io/code-refractor/) provides search engine optimization, online reputation management, and social media marketing. They specialize in brand awareness, cost management and strategies for connecting costumers directly to websites.
 https://revywatson.github.io/code-refractor/
+
+![coderefractor_scrnsht](https://user-images.githubusercontent.com/76264693/106371986-23369f00-6339-11eb-8712-b86ce53df980.jpg)
+
 
 ## What, how and why…
 
@@ -22,7 +27,6 @@ https://revywatson.github.io/code-refractor/
 
 * Added a variable function at the top of CSS file. Only added code for the colors that I noticed repeated throughout the style sheet. I have hopes that as this projects changes and expands so shall the variable portion.
 
-![coderefractor_scrnsht](https://user-images.githubusercontent.com/76264693/106371986-23369f00-6339-11eb-8712-b86ce53df980.jpg)
 
 ## The goal…
 
