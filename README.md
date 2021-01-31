@@ -1,8 +1,7 @@
 # code-refractor
 
 
-![coderefractor_scrnsht](/.png)
-Format: ![Alt Text](url)
+![coderefractor_scrnsht]
 
 http:
 
@@ -20,7 +19,7 @@ http:
 
 * The link for the CSS style sheet was missing the file type so I added `type="text/css"` to clarify for others that may work on this project after me.
 
-* The title was > Website >. I changed it to be, > Horiseon Social Solution Services >. In an real world setting I would ask the client if they preferred the use of the full company name or just > Horiseon >.
+* The title was "Website". I changed it to be, "Horiseon Social Solution Services". In a real world setting I would ask the client if they preferred the use of the full company name or just "Horiseon".
 
 * Consolidated the CSS codes. Several of the class attributes had the same code and were taking up space. By consolidating them the style sheet looks lets congested and cleaner.
 
