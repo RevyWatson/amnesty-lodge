@@ -3,13 +3,11 @@
 ## Horiseon Social Solution Services
 https://revywatson.github.io/code-refractor/
 
-![coderefractor_scrnsht](https://user-images.githubusercontent.com/76264693/106371986-23369f00-6339-11eb-8712-b86ce53df980.jpg)
-
 ## What, how and why…
 
 * The navigation link at the top right of the page for >Search Engine Optimization> was not functioning. The element was missing `<id="search-engine-optimization">` within the section opening tag.
 
-* The original code provided by [Horiseon] (https://revywatson.github.io/code-refractor/) had the `<div>` element tag used almost exclusively throughout the html file. I went through and replaced all of the `<div>` element tags with semantic html elements such as: `<header>`, `<footer>`, `<nav>`, `<article>`, `<section>`, etc.
+* The original code provided by Horiseon had the `<div>` element tag used almost exclusively throughout the html file. I went through and replaced all of the `<div>` element tags with semantic html elements such as: `<header>`, `<footer>`, `<nav>`, `<article>`, `<section>`, etc.
 
 * When I replaced the `<div>` elements for the ` <nav>`, and `<footer>` the appearance of the website changed. In order to maintain the original appearance I also had to edit the CSS style sheet. I replaced the div element for nav, and changed the .footer class into an element selector of footer. 
 
@@ -24,6 +22,8 @@ https://revywatson.github.io/code-refractor/
 * Consolidated the CSS codes. Several of the class attributes had the same code and were taking up space. By consolidating them the style sheet looks lets congested and cleaner.
 
 * Added a variable function at the top of CSS file. Only added code for the colors that I noticed repeated throughout the style sheet. I have hopes that as this projects changes and expands so shall the variable portion.
+
+![coderefractor_scrnsht](https://user-images.githubusercontent.com/76264693/106371986-23369f00-6339-11eb-8712-b86ce53df980.jpg)
 
 ## The goal…
 
