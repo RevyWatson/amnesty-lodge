@@ -3,8 +3,16 @@
 [Horiseon Social Solution Services](https://revywatson.github.io/code-refractor/) provides search engine optimization, online reputation management, and social media marketing. They specialize in brand awareness, cost management and strategies for connecting costumers directly to websites.
 https://revywatson.github.io/code-refractor/
 
-![coderefractor_scrnsht](https://user-images.githubusercontent.com/76264693/106371986-23369f00-6339-11eb-8712-b86ce53df980.jpg)
+![Screenshot (51)](https://user-images.githubusercontent.com/76264693/111364410-8ff6c600-8667-11eb-9583-3e800bff14db.png)
+![Screenshot (52)](https://user-images.githubusercontent.com/76264693/111364417-92f1b680-8667-11eb-9897-02ce1abcd4e9.png)
 
+## Acceptance Critria/
+* This webpage must meet accessibility standards
+* When user/collegues view the source code there are semantic HTML elements.
+* The structure of the HTML elements follows a logical structure independent of styling and positioning.
+* The image elements have accessible alt attributes.
+* The heading attributes fall in sequential order.
+* The title element is concise and descriptive.
 
 ## What, how and why…
 
